@@ -1,5 +1,5 @@
 # Biosphere
-Discord https://discord.gg/qNwXeByy
+Discord https://discord.gg/4S64EwvwrU
 
 LICENSE
 
