@@ -1,7 +1,7 @@
-Biosphere
+BIOSPHERE
 
 Discord https://discord.gg/4S64EwvwrU
 
 LICENSE
 
-Unless otherwise indicated, non-code sources (images, sound, etc) are available under CC-3-BY-SA terms as stated in spritesheet/cc3-by-sa.txt
+Unless otherwise indicated, non-code sources (images, sound, etc) are available under CC-3-BY-SA terms as stated in spritesheet/cc3-by-sa.txt 
